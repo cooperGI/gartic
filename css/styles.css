@@ -1,0 +1,146 @@
+/* CSS Document */
+
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+nav{
+	width: 100%;
+	text-align: center;
+	background-color: #de8646;
+	margin-bottom: 30px;
+}
+
+nav ul li{
+	display: inline-block;
+	margin: 5px 10px;
+	font-size: 1.5em;
+}
+
+nav a{
+	text-decoration: none;
+	color: #ffffff;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+}
+
+.fnav{
+	margin-top: 30px;
+	width: 100%;
+	text-align: center;
+	background-color: #de8646;
+}
+
+.fnav ul li{
+	display: inline-block;
+	margin: 5px 10px;
+	font-size: 1.25em;
+}
+
+.fnav a{
+	text-decoration: none;
+	color: #ffffff;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+}
+
+
+.stuff{
+	margin: 0 auto;
+	
+	width: 70%;
+	background-color: #7545e9;
+}
+
+body{
+	background-color: #741ec1;
+}
+
+h1{
+	color: #ffffff;
+	padding: 20px;
+}
+
+footer{
+	text-align: center;
+}
+
+h4, h5{
+	color: #ffffff;
+}
+
+li{
+	list-style-type: none;
+	color: white;
+	text-align: center;
+	font-size: 1.5em;
+}
+
+
+.homeimg{
+	width: 350px;
+	padding: 20px;
+	float: left;
+}
+
+.howimg{
+	margin: 30px;
+	width: 500px;
+	
+}
+
+.gameimg{
+	margin: 30px;
+	width: 500px;
+	float: right;
+}
+
+.whyimg{
+	margin: 20px;
+	width: 300px;
+	float: left;
+}
+
+.newsimg{
+	margin: 20px;
+	
+	width: 300px;
+	float: right;
+}
+
+.title{
+	font-size: 3em;
+	color: white;
+	text-align: center;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+
+.stuff p{
+	font-size: 1.5em;
+	color: white;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+}
+
+form label{
+	font-size: 1.5em;
+	color: white;
+	padding-left: 7px;
+}
+
+#submit{
+	font-size: 1.5em;
+	padding: 7px;
+	background-color: #de8646;
+	color: white;
+	margin: 20px;
+}
+
+#reset{
+	font-size: 1.5em;
+	padding: 7px;
+	background-color: #de8646;
+	color: white;
+	margin: 20px;
+}
